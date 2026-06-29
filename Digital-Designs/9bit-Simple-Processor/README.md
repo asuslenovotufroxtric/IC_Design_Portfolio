@@ -14,7 +14,7 @@ The processor supports four basic instructions:
 
 ## 2. My Role
 
-I was responsible for Lab 4: A Simple Processor.
+I was responsible for 2) A Simple Processor.
 
 My contributions included:
 
