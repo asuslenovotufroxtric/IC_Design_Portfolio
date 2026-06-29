@@ -8,9 +8,8 @@ This repository documents my academic projects in digital design, analog simulat
 
 | Project | Domain | Tools | Key Results |
 |---|---|---|---|
-| 9-bit Enhanced Processor Subsystem | Digital IC / RTL | SystemVerilog, Quartus | Multi-cycle CPU, FSM control, memory mapping, 50 MHz validation |
-| FDM & Demultiplexing System | Analog / Signal Processing | LTspice | FDM transmitter-receiver, filters, FFT verification |
-
+| 9-bit Simple Processor | Digital Design / RTL | SystemVerilog, Quartus | FSM-based CPU core, shared-bus datapath, mv/mvi/add/sub instruction simulation |
+| FDM Multiplexing System | Analog / Signal Processing | LTspice | 19 kHz to 38 kHz frequency doubler, BPF1 design, FFT verification |
 
 ## Repository Structure
 
