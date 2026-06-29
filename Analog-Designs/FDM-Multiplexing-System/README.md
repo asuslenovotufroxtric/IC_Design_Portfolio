@@ -123,15 +123,6 @@ sim/fft_frequency_doubler.png
 sim/bpf1_output.png
 sim/multiplexed_signal_vy.png
 ```
-
-Example README image links:
-
-```md
-![Frequency Doubler FFT](sim/fft_frequency_doubler.png)
-
-![Multiplexed Signal VY](sim/multiplexed_signal_vy.png)
-```
-
 ---
 
 ## 8. Repository Structure
