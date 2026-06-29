@@ -26,8 +26,6 @@ My contributions included:
 
 ## 3. System Architecture
 
-![Architecture](docs/architecture.png)
-
 The processor consists of:
 
 - 8 general-purpose registers: R0–R7
