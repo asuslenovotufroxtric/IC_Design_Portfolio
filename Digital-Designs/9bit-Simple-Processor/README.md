@@ -144,7 +144,7 @@ The waveform simulation verifies:
 Simulation waveform:
 
 ```text
-![Waveform Simulation](sim/wave_simpleCPU.png)
+sim/wave_simpleCPU.png
 ```
 
 ---
