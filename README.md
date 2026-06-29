@@ -10,7 +10,7 @@ and electronic circuit implementation.
 |---|---|---|---|
 | 9-bit Enhanced Processor Subsystem | Digital IC / RTL | SystemVerilog, Quartus | Multi-cycle CPU, FSM control, memory mapping, 50 MHz validation |
 | FDM & Demultiplexing System | Analog / Signal Processing | LTspice | FDM transmitter-receiver, filters, FFT verification |
-| 12VDC Regulated Power Supply | Electronics | Proteus | 220VAC to 12VDC, 67.36% efficiency |
+| 12VDC Regulated Power Supply | Electronics | Proteus | 220VAC to 12VDC |
 
 ## Repository Structure
 
