@@ -1,6 +1,6 @@
 # IC Design Portfolio - Nguyen Anh Dat
 
-I am a second-year Honors Program student in Integrated Circuit Design at HCMUT.
+I am a third-year Honors Program student in Integrated Circuit Design at HCMUT.
 This repository documents my academic projects in digital design, analog simulation.
 
 
